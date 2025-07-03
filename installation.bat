@@ -15,10 +15,3 @@ pip install -r requirements.txt
 
 echo.
 echo Setup complete!
-
-
-cd rf_env
-call Scripts\activate.bat
-cd ..\backend 
-pip install -r requirements.txt
-streamlit run home.py
