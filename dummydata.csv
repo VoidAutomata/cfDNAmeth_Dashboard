@@ -1,0 +1,2 @@
+cohort,previous_id,sample,disease,new_sampleid_corrected,recipient_age,sex,Hgb,ALP,ALT,AST,Creatinine,txp.indication
+UHN,s13,NASHB_0013,Ctrl-LT,C1,65,M,155,96,20,21,78,Alcohol
