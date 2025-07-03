@@ -4,6 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 **/__pycache__/
+*.pyc
 **/methylation_processed.npz
 
 # User-specific files
